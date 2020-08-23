@@ -14,7 +14,7 @@ import Link from 'next/link'
          <br></br>
          <b>Selamat datang di viras shop</b>
          <br></br>
-         <p>viras shop Menyediakan Semua kebutuhan yang anda perlukan silahkan cek barang yang anda inginkan di bawah ini </p>
+         <p>viras shop kebutuhan yang anda perlukan silahkan cek barang yang anda inginkan di bawah ini </p>
          <br></br>
          <Link href="/proyek/Galeriproduk"><a>Galeri Produk</a></Link>
       </Body>
