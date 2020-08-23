@@ -9,7 +9,7 @@ const Body = props=>(
         body {
           padding: 0;
           margin: 0;
-          background-color: white;
+          background-color: yellow;
         }
       `}</style>
     </div>
