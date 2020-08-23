@@ -24,7 +24,7 @@ import Header from '../../components/header';
  <p>fb : vicky rakhmatullah syahrosi </p>
    <hr />
 <center>
-    <p><small/>Alamat : Jl, KALIMOSODO BUSEK PERUMAHAN PENGATIGAN INDAH ROGOJAMPI - Banyuwangi</p>    <p>Kode Pos : 662</p>
+    <p><small/>Alamat : Jl, KALIMOSODO BUSEK PERUMAHAN PENGATIGAN INDAH ROGOJAMPI - Banyuwangi</p>    <p>Kode Pos : 66233</p>
 
     </center>
     </div>
